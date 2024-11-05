@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Página Principal</title>
+</head>
+<body>
+
+    <header>
+        <h1>Mi Nombre</h1>
+Arnaldo Romero 
+    </header>
+
+    <main>
+        <section>
+            <h2>Biografía</h2>
+            <p>
+                Estudiante de la carrega ingeneria en informatica, 4to año 8vo semestre, me gusta el futbol y la musica electronica 
+            </p>
+        </section>
+
+        <section>
+            <h2>Habilidades</h2>
+            <ul>
+                <li>Buena predispocion </li>
+                <li>Facilidad de solucion de problemas </li>
+                <li>Proactivo </li>
+                <li>Trabajo sobre presion </li>
+                <li>Trabajo en equipo</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Contacto</h2>
+            <p>Puedes encontrarme en las siguientes redes sociales:</p>
+            <ul>
+                <li><a href="https://www.linkedin.com/in/Arnaldo Romero" target="_blank">LinkedIn</a></li>
+                <li><a href="https://github.com/Arni Gotze" target="_blank">GitHub</a></li>
+                <li><a href="https://x.com/arni_gotze" target="_blank">Twitter</a></li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2023 Arnaldo Romero . Todos los derechos reservados.</p>
+    </footer>
+
+</body>
+</html>
